@@ -86,8 +86,6 @@ Without structured maintenance, surveillance systems can develop blind spots, re
 
 J3K Technologies combines maintenance expertise with analytics-driven insight to help organizations stay ahead of issues instead of reacting to them.
 
-For additional industry guidance and technical perspectives on surveillance lifecycle management, organizations may refer to resources available through < > and < >.
-
 ---
 
 
